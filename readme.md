@@ -18,13 +18,13 @@ Required plugins (must be installed via VSCode extensions):
 
 Install required VSCode plugins
 
-Install dependencies
+Install dependencies:
 
 ```
 npm install
 ```
 
-Run Tailwind CLI in watch mode
+Run Tailwind CLI in watch mode:
 
 ```
 npm run watch
@@ -36,7 +36,7 @@ Put any custom CSS that you may have in the **input.css** file
 
 Add any config values to the **tailwind.config.js** file
 
-To build once, run
+To build once, run:
 
 ```
 npm run build
